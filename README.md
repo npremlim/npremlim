@@ -9,5 +9,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a senior in college!
 
-![Naomi's GitHub stats](https://github-readme-stats-sigme-five.vercel.app/api?username=npremlim&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npremlim&theme=radical)](https://github.com/npremlim/github-readme-stats)
+
+![Naomi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=npremlim&show_icons=true&theme=radical)
