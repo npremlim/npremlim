@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on RoomMe, a college roommate finder app
-- 🌱 I’m currently learning more about python scripts
+- 🔭 I’m currently working on Food.io, a restaurant reccomendation app 
+- 🌱 I’m currently learning more about SwiftUI
 - 🤔 I’m looking for help with how to work with sensors
 - How to reach me: Email @naomipremlim@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a senior in college!
+- ⚡ Fun fact: I recently graduated from UC Davis!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npremlim&theme=radical)](https://github.com/npremlim/github-readme-stats)
 
